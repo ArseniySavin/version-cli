@@ -4,7 +4,9 @@
 
 **Description**
 - **Project:** Command-line utility for managing build versions according to [SemVer](https://semver.org/).
-- **Purpose:** Parses and increments versions, generates tags, and can push a variable value to GitLab via the API.
+- **Purpose:** 
+    - Assists in the DevOps development process.
+    - Parses and increments versions, generates tags, and can push a variable value to GitLab via the API.
 
 **Key Features**
 - **SemVer:** Support for the Major.Minor.Patch format, `-build` metadata, and `+revision`.
